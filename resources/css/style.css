@@ -1,0 +1,18 @@
+*
+{
+  background-color: black;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+h1
+{
+  color: white;
+}
+h3.download
+{
+  font-size: 16px;
+  text-decoration: underline;
+  color: aquamarine;
+  text-align: center;
+}
